@@ -1,2 +1,2 @@
 # weather
-Desafio prático de Javascript referente ao curso B7Web, reproduzindo um sistema de consulta a clima tempo.
+Practical Javascript challenge related to the B7Web course, reproducing a weather weather query system.
